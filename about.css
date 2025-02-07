@@ -1,0 +1,23 @@
+body {
+    background-color: #FFDAB3;
+  }
+  h2 {
+    color: #574964;
+  }
+  p {
+    color: #574964;
+  }
+
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+a {
+    float: right;
+    display: block;
+    padding: 8px;
+    background-color: #FFDAB3;
+  }
