@@ -10,7 +10,7 @@ body {
 /* Navigation Style Here */
 
 nav {
-    background-color: #333;
+    background-color: #B5828C;
     padding: 10px;
 }
 nav a {
@@ -61,4 +61,17 @@ input {
     padding: 5px;
     width: 250px;
 }
+
+div {
+    background-color: #A9B5DF;
+    border: 15px solid #7886C7;
+    padding: 50px;
+  }
+
+  .container-contact {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
 
