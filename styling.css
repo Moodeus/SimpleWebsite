@@ -63,8 +63,8 @@ input {
 }
 
 div {
-    background-color: #A9B5DF;
-    border: 15px solid #7886C7;
+    background-color: #e8eaf3;
+    border: 15px solid #9ea6c9;
     padding: 50px;
   }
 
@@ -74,4 +74,5 @@ div {
     left: 50%;
     transform: translate(-50%, -50%);
   }
+
 
