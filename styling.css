@@ -10,11 +10,11 @@ body {
 /* Navigation Style Here */
 
 nav {
-    background-color: #B5828C;
+    background-color: #ff8800;
     padding: 10px;
 }
 nav a {
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     margin: 0 15px;
     font-size: 18px;
@@ -23,7 +23,7 @@ nav a {
 /* Footer Style Here */
 
 footer {
-    background-color: #022f15;
+    background-color: #ff8800;
     color: white;
     padding: 10px;
     position: fixed;
@@ -36,6 +36,25 @@ footer {
 .container-index {
     padding: 20px;
 }
+
+.container-contact {
+    border: 2px solid;
+    margin: 25px;
+    width: 350px;
+    height: 200;
+    resize: both;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+  }
+
+body {
+   background-color: #FFFDEC;
+}
+
+
 
 /* About Us Body Style Here */
 
@@ -62,17 +81,5 @@ input {
     width: 250px;
 }
 
-div {
-    background-color: #e8eaf3;
-    border: 15px solid #9ea6c9;
-    padding: 50px;
-  }
-
-  .container-contact {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
 
 
