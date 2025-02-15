@@ -10,11 +10,16 @@
 
                                 /* Navigation */
 nav {
+<<<<<<< HEAD
     background-color: #898ca3;
     padding: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
+=======
+    background-color: #ff8800;
+    padding: 10px;
+>>>>>>> d95cf5a3069b23800da4ed97611a1ffa7c5c8833
 }
 nav a {
     color: rgb(0, 0, 0);
@@ -25,12 +30,17 @@ nav a {
 }
 
 
+<<<<<<< HEAD
                                 /* Index */
 
 /* Hero Section */
 .hero {
     background: linear-gradient(to right, #4facfe, #00f2fe);
     padding: 50px;
+=======
+footer {
+    background-color: #ff8800;
+>>>>>>> d95cf5a3069b23800da4ed97611a1ffa7c5c8833
     color: white;
     font-size: 24px;
     font-weight: bold;
@@ -85,7 +95,69 @@ footer {
 }
 
 
+<<<<<<< HEAD
                                 /* Contact */
+=======
+.container-index {
+    padding: 20px;
+}
+
+#hero {
+    background-image: url('https://i.imgur.com/oXrLmSl.jpg'); /* Add your image path */
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.hero-content {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
+
+.hero-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ee6c4d;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.hero-button:hover {
+    background-color: #d64b2a;
+}
+
+
+/* About Us Body Style Here */
+
+.container-about-us {
+    padding: 20px;
+}
+
+/* Contact Body Style Here */
+
+.container-contact {
+    border: 2px solid;
+    margin: 25px;
+    width: 350px;
+    height: 200;
+    resize: both;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+  }
+
+
+>>>>>>> d95cf5a3069b23800da4ed97611a1ffa7c5c8833
 form {
     display: flex;
     flex-direction: column;
