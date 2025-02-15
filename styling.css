@@ -10,16 +10,13 @@
 
                                 /* Navigation */
 nav {
-<<<<<<< HEAD
     background-color: #898ca3;
     padding: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
-=======
     background-color: #ff8800;
     padding: 10px;
->>>>>>> d95cf5a3069b23800da4ed97611a1ffa7c5c8833
 }
 nav a {
     color: rgb(0, 0, 0);
@@ -30,17 +27,14 @@ nav a {
 }
 
 
-<<<<<<< HEAD
                                 /* Index */
 
 /* Hero Section */
 .hero {
     background: linear-gradient(to right, #4facfe, #00f2fe);
     padding: 50px;
-=======
 footer {
     background-color: #ff8800;
->>>>>>> d95cf5a3069b23800da4ed97611a1ffa7c5c8833
     color: white;
     font-size: 24px;
     font-weight: bold;
@@ -95,9 +89,7 @@ footer {
 }
 
 
-<<<<<<< HEAD
                                 /* Contact */
-=======
 .container-index {
     padding: 20px;
 }
@@ -157,7 +149,6 @@ footer {
   }
 
 
->>>>>>> d95cf5a3069b23800da4ed97611a1ffa7c5c8833
 form {
     display: flex;
     flex-direction: column;
